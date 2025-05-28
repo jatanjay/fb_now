@@ -2,7 +2,7 @@ import grpc
 from chirpstack_api import api
 
 CHIRPSTACK_API = "192.168.0.248:8080"
-API_TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjaGlycHN0YWNrIiwiaXNzIjoiY2hpcnBzdGFjayIsInN1YiI6IjhlNjk3NWJiLTdkMDctNDg1NC1hOWQ2LWQ3MjQyZTcyMDliYyIsInR5cCI6ImtleSJ9.t1r3p0o4OCiP7bH67JiIuWVuIxoSdNz3n-10iq5j9Q4"
+API_TOKEN = ""
 
 def enqueue_device_queue_item(data, f_port, confirmed=False, dev_eui="24e124601e171829"):
 
