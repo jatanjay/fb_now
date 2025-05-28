@@ -1,0 +1,9 @@
+{
+    "Id": "56f329d5-c568-4c6a-a174-3fa49bf91266",
+    "TransmitMode": 1,
+    "PayloadData": "+wEAEUxhc3QgY2xlYW5lZCBhdDog/z0C",
+    "WirelessMetadata": {
+        "LoRaWAN": {
+            "FPort": 85        }
+    }
+}
